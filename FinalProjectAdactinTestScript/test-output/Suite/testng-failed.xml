@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="AdactinHotelTest(failed)">
+    <classes>
+      <class name="test.RegisterTest">
+        <methods>
+          <include name="registerTest"/>
+        </methods>
+      </class> <!-- test.RegisterTest -->
+    </classes>
+  </test> <!-- AdactinHotelTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
